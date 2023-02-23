@@ -1,0 +1,21 @@
+.grid_cell{
+  @apply p-2;
+  @apply rounded;
+  @apply w-44;
+  @apply flex-initial
+}
+
+.grid_grey{
+  @apply bg-slate-200;
+  @apply dark:bg-slate-700;
+}
+
+.grid_blue{
+  @apply bg-sky-200;
+  @apply dark:bg-sky-700;
+}
+
+.grid_red{
+  @apply bg-rose-200;
+  @apply dark:bg-rose-700;
+}

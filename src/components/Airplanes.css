@@ -1,0 +1,6 @@
+.table-body > :nth-child(odd){
+  @apply bg-slate-200;
+  @apply dark:bg-slate-700;
+
+}
+
